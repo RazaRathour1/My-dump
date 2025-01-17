@@ -4,4 +4,4 @@ cd My-dump
 
 ls
 
-python My-dump.py
+python mydump.py
